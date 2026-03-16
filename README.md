@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enthusiastic-abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="enthusiastic-abhishek" /> </p>
 
-- 🌱I’m currently learning **Data Science and ML, Django, DRF**
+- 🌱I’m currently learning **Data Science and ML, Django, DRF.**
 
 - 📫Reach me **avishek772446@gmail.com**
 
-- ⚡Hobby **Building customized PC, Servers and all DIY projects**
+- ⚡Hobby **Building customized PC, Servers and all kinds of DIY projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
